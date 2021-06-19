@@ -1,0 +1,4 @@
+storePassword=457090
+keyPassword=457090
+keyAlias=key
+storeFile=<location of the key store file, such as /Users/marqa/key.jks>
